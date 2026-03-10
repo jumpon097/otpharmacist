@@ -1,7 +1,7 @@
 {
   "name": "ระบบจัดเวรเภสัชกร รพ.มะเร็งอุบลราชธานี",
   "short_name": "จัดเวรห้องยา",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#10b981",
@@ -20,5 +20,3 @@
     }
   ]
 }
-
-
