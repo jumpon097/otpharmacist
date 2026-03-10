@@ -7,5 +7,5 @@ self.addEventListener('activate', (e) => {
 });
 
 self.addEventListener('fetch', (e) => {
-    // ปล่อยผ่าน request ตามปกติ
+    // ปล่อยผ่าน request ทั้งหมด เพราะเราใช้แค่เพื่อเอาปุ่ม Install
 });
